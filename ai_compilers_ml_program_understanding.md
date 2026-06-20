@@ -1,4 +1,4 @@
-# Towards AI Compilers: Extending Traditional Compilation with Machine Learning-Based Program Understanding
+# Towards AI Compilers: Extending Traditional Compilers with Machine Learning-Based Program Understanding
 
 ## Introduction
 
